@@ -1,0 +1,591 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\models\\khoaluantestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\models\\khoaluantestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\controllers\\deliverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\controllers\\deliverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\service\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\service\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\models\\orderinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\models\\orderinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\models\\paymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\models\\paymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\service\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\service\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\service\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\service\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\models\\paymentinformationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\models\\paymentinformationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\service\\momoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\service\\momoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\service\\imomoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\service\\imomoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\models\\momooptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\models\\momooptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\models\\momoexecuteresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\models\\momoexecuteresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\models\\momocreatepaymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\models\\momocreatepaymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\khoaluan1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\khoaluan1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\khoaluan1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\khoaluan1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\models\\deliverylocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\models\\deliverylocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|d:\\kh\u00F3a lu\u1EADn test\\khoaluan1\\khoaluan1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AF32B5-068D-4DEE-B89A-E9F956430747}|KhoaLuan1\\KhoaLuan1.csproj|solutionrelative:khoaluan1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Controllers\\NotificationController.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "KhoaLuan1\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv2kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T17:52:55.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "KhoaLuan1\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAYwLcAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T07:07:39.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KhoaLuantestContext.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\KhoaLuantestContext.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Models\\KhoaLuantestContext.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\KhoaLuantestContext.cs",
+              "RelativeToolTip": "KhoaLuan1\\Models\\KhoaLuantestContext.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAwwNIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T17:27:14.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeliveryController.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Controllers\\DeliveryController.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Controllers\\DeliveryController.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Controllers\\DeliveryController.cs",
+              "RelativeToolTip": "KhoaLuan1\\Controllers\\DeliveryController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:03:54.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "KhoaLuan1\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwBsAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:57:07.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Controllers\\CartController.cs",
+              "RelativeToolTip": "KhoaLuan1\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwEEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:23:57.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "KhoaLuan1\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:25:18.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Models\\Notification.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\Notification.cs",
+              "RelativeToolTip": "KhoaLuan1\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:14:53.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Hubs\\NotificationHub.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "KhoaLuan1\\Hubs\\NotificationHub.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwFIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T07:39:07.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VnPayService.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Service\\VnPayService.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Service\\VnPayService.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Service\\VnPayService.cs",
+              "RelativeToolTip": "KhoaLuan1\\Service\\VnPayService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:24:03.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Controllers\\RestaurantController.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "KhoaLuan1\\Controllers\\RestaurantController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwBwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:06:03.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "KhoaLuan1\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAmwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:06:19.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Program.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Program.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Program.cs",
+              "RelativeToolTip": "KhoaLuan1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T18:06:02.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Controllers\\SellerController.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Controllers\\SellerController.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Controllers\\SellerController.cs",
+              "RelativeToolTip": "KhoaLuan1\\Controllers\\SellerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:49:17.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Models\\Product.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\Product.cs",
+              "RelativeToolTip": "KhoaLuan1\\Models\\Product.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:50:32.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Models\\Order.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\Order.cs",
+              "RelativeToolTip": "KhoaLuan1\\Models\\Order.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:09:52.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderInfoModel.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\OrderInfoModel.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Models\\OrderInfoModel.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\OrderInfoModel.cs",
+              "RelativeToolTip": "KhoaLuan1\\Models\\OrderInfoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:23:23.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Hubs\\ChatHub.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "KhoaLuan1\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:13:45.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentResponseModel.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\PaymentResponseModel.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Models\\PaymentResponseModel.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\PaymentResponseModel.cs",
+              "RelativeToolTip": "KhoaLuan1\\Models\\PaymentResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:34:30.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IVnPayService.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Service\\IVnPayService.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Service\\IVnPayService.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Service\\IVnPayService.cs",
+              "RelativeToolTip": "KhoaLuan1\\Service\\IVnPayService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:44:56.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Service\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Service\\VnPayLibrary.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Service\\VnPayLibrary.cs",
+              "RelativeToolTip": "KhoaLuan1\\Service\\VnPayLibrary.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwGIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T15:34:33.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaymentInformationModel.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\PaymentInformationModel.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Models\\PaymentInformationModel.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\PaymentInformationModel.cs",
+              "RelativeToolTip": "KhoaLuan1\\Models\\PaymentInformationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:25:31.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MoMoService.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Service\\MoMoService.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Service\\MoMoService.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Service\\MoMoService.cs",
+              "RelativeToolTip": "KhoaLuan1\\Service\\MoMoService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:56:17.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IMoMoService.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Service\\IMoMoService.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Service\\IMoMoService.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Service\\IMoMoService.cs",
+              "RelativeToolTip": "KhoaLuan1\\Service\\IMoMoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:51:43.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\appsettings.json",
+              "RelativeDocumentMoniker": "KhoaLuan1\\appsettings.json",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\appsettings.json",
+              "RelativeToolTip": "KhoaLuan1\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T18:06:20.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MoMoOptionModel.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\MoMoOptionModel.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Models\\MoMoOptionModel.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\MoMoOptionModel.cs",
+              "RelativeToolTip": "KhoaLuan1\\Models\\MoMoOptionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T17:13:37.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MomoExecuteResponseModel.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\MomoExecuteResponseModel.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Models\\MomoExecuteResponseModel.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\MomoExecuteResponseModel.cs",
+              "RelativeToolTip": "KhoaLuan1\\Models\\MomoExecuteResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:05:58.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MomoCreatePaymentResponseModel.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\MomoCreatePaymentResponseModel.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Models\\MomoCreatePaymentResponseModel.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\MomoCreatePaymentResponseModel.cs",
+              "RelativeToolTip": "KhoaLuan1\\Models\\MomoCreatePaymentResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:05:17.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "KhoaLuan1.http",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\KhoaLuan1.http",
+              "RelativeDocumentMoniker": "KhoaLuan1\\KhoaLuan1.http",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\KhoaLuan1.http",
+              "RelativeToolTip": "KhoaLuan1\\KhoaLuan1.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-16T18:29:08.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "KhoaLuan1\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:08:37.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "KhoaLuan1.csproj",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\KhoaLuan1.csproj",
+              "RelativeDocumentMoniker": "KhoaLuan1\\KhoaLuan1.csproj",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\KhoaLuan1.csproj",
+              "RelativeToolTip": "KhoaLuan1\\KhoaLuan1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-22T15:12:52.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Models\\User.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\User.cs",
+              "RelativeToolTip": "KhoaLuan1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:28:50.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Models\\Message.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\Message.cs",
+              "RelativeToolTip": "KhoaLuan1\\Models\\Message.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:09:46.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DeliveryLocation.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\DeliveryLocation.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\Models\\DeliveryLocation.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\Models\\DeliveryLocation.cs",
+              "RelativeToolTip": "KhoaLuan1\\Models\\DeliveryLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:40:49.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "KhoaLuan1\\WeatherForecast.cs",
+              "ToolTip": "D:\\KH\u00D3A LU\u1EACN TEST\\KhoaLuan1\\KhoaLuan1\\WeatherForecast.cs",
+              "RelativeToolTip": "KhoaLuan1\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:04:25.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
